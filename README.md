@@ -49,7 +49,7 @@ blinkit-sql-project/
 
 1. Open your SQL environment (MySQL, PostgreSQL, SQLite, etc.).
 2. Execute `blinkit_analysis.sql` to create the database schema.
-3. (Optional) Insert sample data and run analytical queries.
+3. Insert sample data and run analytical queries.
 
 ---
 
